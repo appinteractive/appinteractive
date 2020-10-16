@@ -13,7 +13,7 @@ I'm Grzegorz Leoniec (or just **Greg**), **Software Engineer** and **UI/UX Desig
 
 
 <!--
-**juliomrqz/juliomrqz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**appinteractive/appinteractive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
